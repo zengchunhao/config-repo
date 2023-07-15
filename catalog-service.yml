@@ -7,6 +7,6 @@ server:
       max: 50
       min-spare: 5
 book:
-  greeting: "Welcome to the catalog from the config server"
+  greeting: "Welcome to the catalog from a fresh config server"
   testdata:
     enabled: true
