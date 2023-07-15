@@ -1,2 +1,4 @@
 book:
   greeting: "Welcome to the production catalog from the config server"
+  testdata:
+    enabled: false
